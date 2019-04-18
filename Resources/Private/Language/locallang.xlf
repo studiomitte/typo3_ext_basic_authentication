@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2019-04-17T11:48:33Z"
+          product-name="basic_authentication">
+        <header/>
+        <body>
+            <trans-unit id="extmng.backendEnabled" xml:space="preserve">
+                <source>Enable backend authentication</source>
+            </trans-unit>
+            <trans-unit id="extmng.frontendEnabled" xml:space="preserve">
+                <source>Enable frontend authentication</source>
+            </trans-unit>
+            <trans-unit id="extmng.backendUsers" xml:space="preserve">
+                <source>List of user credentials for backend:Syntax user:password|user:password|user:password</source>
+            </trans-unit>
+            <trans-unit id="extmng.frontendUsers" xml:space="preserve">
+                <source>List of user credentials for frontend:Syntax user:password|user:password|user:password</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

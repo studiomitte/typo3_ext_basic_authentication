@@ -1,0 +1,11 @@
+# cat=backend/enable/1; type=boolean; label=LLL:EXT:basic_authentication/Resources/Private/Language/locallang.xlf:extmng.backendEnabled
+backendEnabled = 0
+
+# cat=backend/enable/2; type=string; label=LLL:EXT:basic_authentication/Resources/Private/Language/locallang.xlf:extmng.backendUsers
+backendUsers =
+
+# cat=frontend/enable/1; type=boolean; label=LLL:EXT:basic_authentication/Resources/Private/Language/locallang.xlf:extmng.frontendEnabled
+frontendEnabled = 0
+
+# cat=frontend/enable/2; type=string; label=LLL:EXT:basic_authentication/Resources/Private/Language/locallang.xlf:extmng.frontendUsers
+frontendUsers =
